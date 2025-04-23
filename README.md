@@ -25,3 +25,6 @@ Daydream Pop
 
 Verdant Alloy
 ![Twilight Reverie colour theme](images/light/verdant-alloy.png)
+
+Pastel Tides
+![Twilight Reverie colour theme](images/light/pastel-tides.png)

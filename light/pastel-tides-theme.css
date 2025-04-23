@@ -1,0 +1,37 @@
+:root[data-theme="light"] {
+    color-scheme: light;
+
+    --hue: 188deg; /* light-blue */
+    --saturation: 45%;
+
+    /* background — eggshell */
+    --bg-hue: 46deg;
+    --bg-saturation: 74%;
+    --bg-brightness: 92%;
+
+    --theme-accent-base: 168deg 69% 38%; /* celeste */
+    --theme-accent-one: 188deg 45% 48%; /* light-blue */
+    --theme-accent-two: 5deg 100% 61%; /* melon */
+
+    --fg-hue: 222deg; /* paynes-gray */
+    --fg-saturation: 10%;
+    --fg-brightness: 41%;
+    --theme-text: var(--theme-color-700);
+
+    --theme-link: 188deg 70% 35%; /* deep-teal */
+    --theme-accent: var(--theme-color-600);
+    --theme-quote: var(--theme-text);
+
+    --theme-lightest: hsla(46, 74%, 98%, 1); /* eggshell */
+    --theme-lighter: hsla(190, 87%, 45%, 1); /* celeste */
+    --theme-light: hsla(198, 95%, 25%, 1); /*  deep-teal */
+
+    --theme-special-lightest: hsl(46, 74%, 100%);
+    --theme-special-lighter: hsl(46, 74%, 98%);
+    --theme-special-light: hsl(
+        var(--bg-hue),
+        var(--bg-saturation),
+        var(--bg-brightness)
+    );
+    --theme-special: var(--theme-color-75);
+}
