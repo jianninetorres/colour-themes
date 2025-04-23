@@ -1,0 +1,32 @@
+:root[data-theme="dark"] {
+    color-scheme: dark;
+
+    --hue: 219deg; /* oxford-blue */
+    --saturation: 59%;
+
+    --bg-hue: 219deg;
+    --bg-saturation: 59%;
+    --bg-brightness: 13%;
+
+    --theme-accent-base: 189deg 100% 92%; /* light-cyan */
+    --theme-accent-one: 73deg 53% 97%; /* ivory */
+    --theme-accent-two: 24deg 100% 94%; /* linen */
+
+    --fg-hue: 24deg; /* linen */
+    --fg-saturation: 100%;
+    --fg-brightness: 94%;
+
+    --theme-text: var(--theme-color-500);
+    --theme-link: var(--theme-accent-base);
+    --theme-accent: var(--theme-accent-two);
+    --theme-quote: var(--theme-text);
+
+    --theme-lightest: var(--theme-color-350);
+    --theme-lighter: var(--theme-color-400);
+    --theme-light: var(--theme-color-450);
+
+    --theme-special-lightest: var(--theme-color-250);
+    --theme-special-lighter: var(--theme-color-200);
+    --theme-special-light: var(--theme-color-150);
+    --theme-special: hsl(var(--hue) var(--saturation) 0% / 0.15);
+}

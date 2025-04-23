@@ -1,0 +1,35 @@
+:root[data-theme="light"] {
+    color-scheme: light;
+
+    --theme-accent-base: 332deg 100% 80%; /* carnation-pink */
+    --theme-accent-one: 54deg 91% 86%; /* lemon-chiffon */
+    --theme-accent-two: 143deg 62% 89%; /* nyanza */
+    --theme-accent-three: 200deg 87% 82%; /* uranian-blue */
+    --theme-accent-four: 278deg 82% 87%; /* mauve */
+
+    --bg-hue: 54deg;
+    --bg-saturation: 91%;
+    --bg-brightness: 86%;
+
+    --fg-hue: 278deg;
+    --fg-saturation: 82%;
+    --fg-brightness: 27%;
+
+    --theme-bg: var(--bg-hue) var(--bg-saturation) var(--bg-brightness);
+    --theme-fg: var(--fg-hue) var(--fg-saturation) var(--fg-brightness);
+
+    --theme-color-900: hsl(var(--theme-fg) / 1);
+    --theme-color-500: hsl(var(--theme-fg) / 0.605);
+    --theme-color-100: hsl(var(--theme-fg) / 0.045);
+
+    --theme-text: var(--theme-color-900);
+    --theme-link: hsl(var(--theme-accent-three));
+    --theme-accent: hsl(var(--theme-accent-base));
+    --theme-quote: var(--theme-color-500);
+
+    --code-bg: hsl(var(--theme-accent-four));
+    --code-inline-bg: hsl(var(--theme-accent-two));
+    --code-line-highlight: hsla(332, 100%, 80%, 0.15);
+    --code-line-diff-add: hsla(143, 62%, 89%, 0.15);
+    --code-line-diff-remove: hsla(278, 82%, 87%, 0.15);
+}
