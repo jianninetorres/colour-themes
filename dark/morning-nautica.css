@@ -1,0 +1,107 @@
+/* CSS HEX */
+--linen: #ffede1ff;
+--ivory: #f9fbf2ff;
+--light-cyan: #d7f9ffff;
+--jordy-blue: #afcbffff;
+--oxford-blue: #0e1c36ff;
+
+/* CSS HSL */
+--linen: hsla(24, 100%, 94%, 1);
+--ivory: hsla(73, 53%, 97%, 1);
+--light-cyan: hsla(189, 100%, 92%, 1);
+--jordy-blue: hsla(219, 100%, 84%, 1);
+--oxford-blue: hsla(219, 59%, 13%, 1);
+
+/* SCSS HEX */
+$linen: #ffede1ff;
+$ivory: #f9fbf2ff;
+$light-cyan: #d7f9ffff;
+$jordy-blue: #afcbffff;
+$oxford-blue: #0e1c36ff;
+
+/* SCSS HSL */
+$linen: hsla(24, 100%, 94%, 1);
+$ivory: hsla(73, 53%, 97%, 1);
+$light-cyan: hsla(189, 100%, 92%, 1);
+$jordy-blue: hsla(219, 100%, 84%, 1);
+$oxford-blue: hsla(219, 59%, 13%, 1);
+
+/* SCSS RGB */
+$linen: rgba(255, 237, 225, 1);
+$ivory: rgba(249, 251, 242, 1);
+$light-cyan: rgba(215, 249, 255, 1);
+$jordy-blue: rgba(175, 203, 255, 1);
+$oxford-blue: rgba(14, 28, 54, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(
+    0deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-right: linear-gradient(
+    90deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-bottom: linear-gradient(
+    180deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-left: linear-gradient(
+    270deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-top-right: linear-gradient(
+    45deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-bottom-right: linear-gradient(
+    135deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-top-left: linear-gradient(
+    225deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-bottom-left: linear-gradient(
+    315deg,
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);
+$gradient-radial: radial-gradient(
+    #ffede1ff,
+    #f9fbf2ff,
+    #d7f9ffff,
+    #afcbffff,
+    #0e1c36ff
+);

@@ -1,0 +1,107 @@
+/* CSS HEX */
+--dark-green: #012622ff;
+--dark-green-2: #003b36ff;
+--magnolia: #ece5f0ff;
+--fulvous: #e98a15ff;
+--palatinate: #59114dff;
+
+/* CSS HSL */
+--dark-green: hsla(174, 95%, 8%, 1);
+--dark-green-2: hsla(175, 100%, 12%, 1);
+--magnolia: hsla(278, 27%, 92%, 1);
+--fulvous: hsla(33, 83%, 50%, 1);
+--palatinate: hsla(310, 68%, 21%, 1);
+
+/* SCSS HEX */
+$dark-green: #012622ff;
+$dark-green-2: #003b36ff;
+$magnolia: #ece5f0ff;
+$fulvous: #e98a15ff;
+$palatinate: #59114dff;
+
+/* SCSS HSL */
+$dark-green: hsla(174, 95%, 8%, 1);
+$dark-green-2: hsla(175, 100%, 12%, 1);
+$magnolia: hsla(278, 27%, 92%, 1);
+$fulvous: hsla(33, 83%, 50%, 1);
+$palatinate: hsla(310, 68%, 21%, 1);
+
+/* SCSS RGB */
+$dark-green: rgba(1, 38, 34, 1);
+$dark-green-2: rgba(0, 59, 54, 1);
+$magnolia: rgba(236, 229, 240, 1);
+$fulvous: rgba(233, 138, 21, 1);
+$palatinate: rgba(89, 17, 77, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(
+    0deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-right: linear-gradient(
+    90deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-bottom: linear-gradient(
+    180deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-left: linear-gradient(
+    270deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-top-right: linear-gradient(
+    45deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-bottom-right: linear-gradient(
+    135deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-top-left: linear-gradient(
+    225deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-bottom-left: linear-gradient(
+    315deg,
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);
+$gradient-radial: radial-gradient(
+    #012622ff,
+    #003b36ff,
+    #ece5f0ff,
+    #e98a15ff,
+    #59114dff
+);

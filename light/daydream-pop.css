@@ -1,0 +1,107 @@
+/* CSS HEX */
+--carnation-pink: #ff99c8ff;
+--lemon-chiffon: #fcf6bdff;
+--nyanza: #d0f4deff;
+--uranian-blue: #a9def9ff;
+--mauve: #e4c1f9ff;
+
+/* CSS HSL */
+--carnation-pink: hsla(332, 100%, 80%, 1);
+--lemon-chiffon: hsla(54, 91%, 86%, 1);
+--nyanza: hsla(143, 62%, 89%, 1);
+--uranian-blue: hsla(200, 87%, 82%, 1);
+--mauve: hsla(278, 82%, 87%, 1);
+
+/* SCSS HEX */
+$carnation-pink: #ff99c8ff;
+$lemon-chiffon: #fcf6bdff;
+$nyanza: #d0f4deff;
+$uranian-blue: #a9def9ff;
+$mauve: #e4c1f9ff;
+
+/* SCSS HSL */
+$carnation-pink: hsla(332, 100%, 80%, 1);
+$lemon-chiffon: hsla(54, 91%, 86%, 1);
+$nyanza: hsla(143, 62%, 89%, 1);
+$uranian-blue: hsla(200, 87%, 82%, 1);
+$mauve: hsla(278, 82%, 87%, 1);
+
+/* SCSS RGB */
+$carnation-pink: rgba(255, 153, 200, 1);
+$lemon-chiffon: rgba(252, 246, 189, 1);
+$nyanza: rgba(208, 244, 222, 1);
+$uranian-blue: rgba(169, 222, 249, 1);
+$mauve: rgba(228, 193, 249, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(
+    0deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-right: linear-gradient(
+    90deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-bottom: linear-gradient(
+    180deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-left: linear-gradient(
+    270deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-top-right: linear-gradient(
+    45deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-bottom-right: linear-gradient(
+    135deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-top-left: linear-gradient(
+    225deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-bottom-left: linear-gradient(
+    315deg,
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);
+$gradient-radial: radial-gradient(
+    #ff99c8ff,
+    #fcf6bdff,
+    #d0f4deff,
+    #a9def9ff,
+    #e4c1f9ff
+);

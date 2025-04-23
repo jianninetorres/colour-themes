@@ -1,0 +1,107 @@
+/* CSS HEX */
+--battleship-gray: #88958dff;
+--ebony: #606d5dff;
+--rose-quartz: #bc9cb0ff;
+--french-gray: #d3cdd7ff;
+--mint-green: #ddf2ebff;
+
+/* CSS HSL */
+--battleship-gray: hsla(143, 6%, 56%, 1);
+--ebony: hsla(109, 8%, 40%, 1);
+--rose-quartz: hsla(323, 19%, 67%, 1);
+--french-gray: hsla(276, 11%, 82%, 1);
+--mint-green: hsla(160, 45%, 91%, 1);
+
+/* SCSS HEX */
+$battleship-gray: #88958dff;
+$ebony: #606d5dff;
+$rose-quartz: #bc9cb0ff;
+$french-gray: #d3cdd7ff;
+$mint-green: #ddf2ebff;
+
+/* SCSS HSL */
+$battleship-gray: hsla(143, 6%, 56%, 1);
+$ebony: hsla(109, 8%, 40%, 1);
+$rose-quartz: hsla(323, 19%, 67%, 1);
+$french-gray: hsla(276, 11%, 82%, 1);
+$mint-green: hsla(160, 45%, 91%, 1);
+
+/* SCSS RGB */
+$battleship-gray: rgba(136, 149, 141, 1);
+$ebony: rgba(96, 109, 93, 1);
+$rose-quartz: rgba(188, 156, 176, 1);
+$french-gray: rgba(211, 205, 215, 1);
+$mint-green: rgba(221, 242, 235, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(
+    0deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-right: linear-gradient(
+    90deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-bottom: linear-gradient(
+    180deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-left: linear-gradient(
+    270deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-top-right: linear-gradient(
+    45deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-bottom-right: linear-gradient(
+    135deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-top-left: linear-gradient(
+    225deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-bottom-left: linear-gradient(
+    315deg,
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);
+$gradient-radial: radial-gradient(
+    #88958dff,
+    #606d5dff,
+    #bc9cb0ff,
+    #d3cdd7ff,
+    #ddf2ebff
+);

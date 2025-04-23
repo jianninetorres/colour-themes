@@ -1,0 +1,107 @@
+/* CSS HEX */
+--asparagus: #60992dff;
+--olivine: #8cae68ff;
+--amaranth-pink: #d991baff;
+--pink-lavender: #ebb9dfff;
+--mimi-pink: #f5d5edff;
+
+/* CSS HSL */
+--asparagus: hsla(92, 55%, 39%, 1);
+--olivine: hsla(89, 30%, 55%, 1);
+--amaranth-pink: hsla(326, 49%, 71%, 1);
+--pink-lavender: hsla(314, 56%, 82%, 1);
+--mimi-pink: hsla(315, 62%, 90%, 1);
+
+/* SCSS HEX */
+$asparagus: #60992dff;
+$olivine: #8cae68ff;
+$amaranth-pink: #d991baff;
+$pink-lavender: #ebb9dfff;
+$mimi-pink: #f5d5edff;
+
+/* SCSS HSL */
+$asparagus: hsla(92, 55%, 39%, 1);
+$olivine: hsla(89, 30%, 55%, 1);
+$amaranth-pink: hsla(326, 49%, 71%, 1);
+$pink-lavender: hsla(314, 56%, 82%, 1);
+$mimi-pink: hsla(315, 62%, 90%, 1);
+
+/* SCSS RGB */
+$asparagus: rgba(96, 153, 45, 1);
+$olivine: rgba(140, 174, 104, 1);
+$amaranth-pink: rgba(217, 145, 186, 1);
+$pink-lavender: rgba(235, 185, 223, 1);
+$mimi-pink: rgba(245, 213, 237, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(
+    0deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-right: linear-gradient(
+    90deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-bottom: linear-gradient(
+    180deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-left: linear-gradient(
+    270deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-top-right: linear-gradient(
+    45deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-bottom-right: linear-gradient(
+    135deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-top-left: linear-gradient(
+    225deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-bottom-left: linear-gradient(
+    315deg,
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
+$gradient-radial: radial-gradient(
+    #60992dff,
+    #8cae68ff,
+    #d991baff,
+    #ebb9dfff,
+    #f5d5edff
+);
