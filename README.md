@@ -15,6 +15,9 @@ Morning Nautica
 Twilight Reverie
 ![Twilight Reverie colour theme](images/dark/twilight-reverie.png)
 
+Midnight Ember
+![Midnight Ember colour theme](images/dark/midnight-ember.png)
+
 ## light
 
 Blushing Grove
