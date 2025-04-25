@@ -23,7 +23,9 @@ Light themes target `:root,
 
 Dark themes target `:root[data-theme="dark"]`.
 
-Both themes contain the `:root` base themes:
+These themes do not set styles for code blocks. You will need to define the `pre code span` styles yourself within each `:root[data-theme=""]`.
+
+Both themes set the `:root` base themes:
 
 ```css
 :root {
@@ -59,9 +61,22 @@ Both themes contain the `:root` base themes:
 }
 ```
 
-These themes do not set styles for code blocks. You will need to define the `pre code span` styles yourself within each `:root[data-theme=""]`.
+## Production-ready
+#### dark
+- [ ] Cosmic Coast
+- [ ] Jungle Nocturne
+- [x] Morning Nautica
+- [ ] Twilight Reverie
+- [ ] Midnight Ember
 
-## dark
+#### light
+- [ ] Blushing Grove
+- [ ] Daydream Pop
+- [ ] Verdant Alloy
+- [x] Pastel Tides
+ 
+## themes
+### dark
 
 Cosmic Coast
 ![Cosmic coast colour theme](images/dark/cosmic-coast.png)
@@ -78,7 +93,7 @@ Twilight Reverie
 Midnight Ember
 ![Midnight Ember colour theme](images/dark/midnight-ember.png)
 
-## light
+### light
 
 Blushing Grove
 ![Blushing Grove colour theme](images/light/blushing-grove.png)
