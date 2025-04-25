@@ -68,12 +68,14 @@ Both themes set the `:root` base themes:
 - [x] Morning Nautica
 - [ ] Twilight Reverie
 - [ ] Midnight Ember
+- [x] Arctic Ember
 
 #### light
 - [ ] Blushing Grove
 - [ ] Daydream Pop
 - [ ] Verdant Alloy
 - [x] Pastel Tides
+- [x] Arctic Ember
  
 ## themes
 ### dark
@@ -106,3 +108,6 @@ Verdant Alloy
 
 Pastel Tides
 ![Twilight Reverie colour theme](images/light/pastel-tides.png)
+
+### dark/light
+![Arctic Ember](images/dark/arctic-ember.png)
